@@ -1,5 +1,7 @@
 # Restaurant-of-the-Future-2.0
 
+![IsometricView](https://github.com/PrathamMeena/Restaurant-of-the-Future-2.0/tree/master/Images/IsoMetricView.PNG)
+
 # Abstract
 	
 The idea is to make a robot capable of serving dish to customers. The order will be given via a mobile device located at the table, which will be sent to the reception for billing and to kitchen's menu for chef as well the bot.
