@@ -25,9 +25,8 @@ We would like to express our special thanks to Shivam Srivastava sir, Prashant K
 12. Encoder
 13. Motor Driver
 
-#Software
-	
-Arduino
+# Software
+	# Arduino
 The movement of dc motors and the servo motor is controlled by the arduino code with the help of the feedback from the rotary encoders.
 
 	
