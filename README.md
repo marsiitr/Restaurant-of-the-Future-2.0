@@ -50,20 +50,14 @@ Also, it can be used for domestic purposes in houses and offices.
  
 # Team Members
 
-•Pratham Meena
-
-•Divyansh Gupta
-
-•Vaibhav Agarwal
-
-•Sandeep Marandi
-
-•Aman Kumar
-
-•Sakshi Priya
+1.Pratham Meena
+2.Divyansh Gupta
+3.Vaibhav Agarwal
+4.Sandeep Marandi
+5.Aman Kumar
+6.Sakshi Priya
 
 # Mentors
 
-•Anurag Singh
-
-•Vishal Singh
+1.Anurag Singh
+2.Vishal Singh
