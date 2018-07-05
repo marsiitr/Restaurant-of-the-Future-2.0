@@ -1,6 +1,6 @@
 # Restaurant-of-the-Future-2.0
 
-![IsometricView](https://github.com/PrathamMeena/Restaurant-of-the-Future-2.0/tree/master/Images/IsoMetricView.PNG)
+![IsometricView](Images/IsoMetricView.PNG)
 
 # Abstract
 	
