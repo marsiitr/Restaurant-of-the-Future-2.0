@@ -1,6 +1,6 @@
 # Restaurant-of-the-Future-2.0
 
-![IsometricView](Images/IsoMetricView.PNG)
+![IsometricView](Images/IsoMetricView.jpg)
 
 # Abstract
 	
