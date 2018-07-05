@@ -59,5 +59,5 @@ Also, it can be used for domestic purposes in houses and offices.
 
 # Mentors
 
-1.Anurag Singh
-2.Vishal Singh
+1. Anurag Singh
+2. Vishal Singh
