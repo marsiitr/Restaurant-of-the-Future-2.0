@@ -9,9 +9,10 @@ and there. The design underwent a few changes. During the month of
 January the design was finalised with the help of a few seniors and further
 work on the chassis continued with the motor and the encoder being
 attached and the channels being constructed on i.
+
+
 ELECTRONICS :
 Group Members: Anurag Singh,Vishal Singh,Sandip Kumar Maramdi, Aman Kumar, Sakshi Priya
-
 The whole electronics part had to be done mainly in Matlab and Arduino. In
 Matlab, given map of the restaurant having the locations of the fixed
 tables, an optimised shortest path avoiding the tables had to be calculated
